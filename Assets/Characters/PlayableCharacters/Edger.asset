@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51e1aea9bb52f0d4cb8b54c0b896bd10, type: 3}
+  m_Name: Edger
+  m_EditorClassIdentifier: Assembly-CSharp::CharacterData
+  characterId: char_edger
+  characterName: Edger
+  rarity: 4
+  damage: 15
+  splashArt: {fileID: 21300000, guid: ec313d0b3d1152243b9adc7484909648, type: 3}

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d71ea4fc951272f4aaf253228a0b9206, type: 3}
+  m_Name: Gacha
+  m_EditorClassIdentifier: Assembly-CSharp::CharacterDatabase
+  fourStarCharacters:
+  - {fileID: 11400000, guid: 9c2db3c4ac3399e4093c501290e1f647, type: 2}
+  - {fileID: 11400000, guid: 9be23c3f54d67cd4898a94182c02eb1a, type: 2}
+  - {fileID: 11400000, guid: d4251121b53ab0a44b60b5145de10ef3, type: 2}
+  - {fileID: 11400000, guid: 22706d05adc64c842849630eea71bd2e, type: 2}
+  - {fileID: 11400000, guid: 9e0c412e1e4b9064d85de2125682fba0, type: 2}
+  fiveStarCharacters:
+  - {fileID: 11400000, guid: 7869042b36084f94cbcc3557f25f571c, type: 2}
+  - {fileID: 11400000, guid: d96c395480209fc4e83d5d31e8105cc1, type: 2}
+  sixStarCharacters:
+  - {fileID: 11400000, guid: 9e1ac8325113df14f8e445c3a8535a1c, type: 2}
+  - {fileID: 11400000, guid: b7e00eb4ea1bfdf4aa8bde3df0bbe55d, type: 2}

@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51e1aea9bb52f0d4cb8b54c0b896bd10, type: 3}
+  m_Name: Miko
+  m_EditorClassIdentifier: Assembly-CSharp::CharacterData
+  characterId: char_miko
+  characterName: Miko
+  rarity: 4
+  damage: 15
+  splashArt: {fileID: 21300000, guid: 5720b0e1b9c7c93418a607744809df04, type: 3}
